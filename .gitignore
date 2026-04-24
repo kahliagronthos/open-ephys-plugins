@@ -1,0 +1,10 @@
+Build/
+*.bundle
+*.o
+*.d
+*.a
+*.dylib
+.DS_Store
+cmake_install.cmake
+CMakeCache.txt
+CMakeFiles/
